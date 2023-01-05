@@ -1,0 +1,9 @@
+{ "staff": [
+    { "id": 1, "surname": "Èâàíîâ", "name":"Èâàí", "first_name": "Èâàíîâè÷", "post":"ñëåñàðü", "salary": "25000", "telephone": "+7 9184556789",  "telegram": "@ivanov" },
+    { "id": 2, "surname": "Ïåòðîâ", "name":"Ïåòð", "first_name": "Ïåòðîâè÷", "post":"ïëîòíèê", "salary": "20000", "telephone": "+7 9174567891",  "telegram": "@petrov" },
+    { "id": 3, "surname": "Ñèäîðåíêî", "name":"Íèêîëàé", "first_name": "Àëåêñååâè÷", "post":"òîêàðü", "salary": "30000", "telephone": "+7 9154567823",  "telegram": "@nikolai" },
+    { "id": 4, "surname": "Íîâèêîâ", "name":"Âëàäèìèð", "first_name": "Âèêòîðîâè÷", "post":"ïðåïîäîâàòåëü", "salary": "25000", "telephone": "+7 9665243562",  "telegram": "@novikov" },
+    { "id": 5, "surname": "Êðàâöîâà", "name":"Åêàòåðèíà", "first_name": "Àíäðååâíà", "post":"ïðåïîäîâàòåëü", "salary": "25000", "telephone": "+7 5456759123",  "telegram": "@kravcova" },
+    { "id": 6, "surname": "Ãëóùåíêî", "name":"Åâãåíèé", "first_name": "Âåòàëüåâè÷", "post":"ïðåïîäîâàòåëü", "salary": "20000", "telephone": "+7 6632562332",  "telegram": "@glushenko" },
+    { "id": 7, "surname": "Ãîëîâêî", "name":"Ìàðèíà", "first_name": "Ñåðãååâíà", "post":"óáîðùèöà", "salary": "10000", "telephone": "+7 5596242360",  "telegram": "@golovko" }
+    ]}
